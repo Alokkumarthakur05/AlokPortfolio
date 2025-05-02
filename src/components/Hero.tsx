@@ -29,7 +29,7 @@ const Hero: React.FC = () => {
               startDelay={500}
               cursorColor="#0073f5"
               multiText={[
-                'Data Science',
+                'Data Scientist',
                 'Software Engineer',
                 
                 'Passionate Learner'

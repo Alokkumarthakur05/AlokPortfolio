@@ -5,7 +5,7 @@ import { Mail, Phone, MapPin, Github, Linkedin } from 'lucide-react';
 const Contact: React.FC = () => {
   const socialLinks = [
     { icon: <Github size={20} />, href: 'https://github.com/Alokkumarthakur05', label: 'GitHub' },
-    { icon: <Linkedin size={20} />, href: 'https://github.com/Alokkumarthakur05', label: 'LinkedIn' },
+    { icon: <Linkedin size={20} />, href: 'https://www.linkedin.com/in/alok-kumar-33740a214/', label: 'LinkedIn' },
     
   
   ];
