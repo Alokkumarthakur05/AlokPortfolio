@@ -11,7 +11,7 @@ const education = [
     percentage: "62.4%",
   },
   {
-    title: "Ram Sharan Rai Inter College",
+    title: "Ram Sharan Roy Inter College",
     location: "Bihar",
     level: "Class 12th",
     year: "2022",
